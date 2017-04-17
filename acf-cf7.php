@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Advanced Custom Fields: Contact Form 7
-Plugin URI: https://github.com/taylormsj/acf-cf7
+Plugin URI: https://github.com/lukecav/acf-cf7/
 Description: Add one or more contact forms to an advanced custom field 
-Version: 1.0.1
-Author: Taylor Mitchell-St.Joseph
-Author URI: http://taylormitchellstjoseph.co.uk
+Version: 1.0.2
+Author: Taylor Mitchell-St.Joseph, lukecav
+Author URI: https://github.com/lukecav
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
