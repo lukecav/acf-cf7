@@ -1,8 +1,8 @@
 === Advanced Custom Fields: Contact Form 7 Field ===
-Contributors: Taylor Mitchell-St.Joseph
+Contributors: Taylor Mitchell-St.Joseph, lukecav
 Tags: acf, contact form 7, advanced custom fields
-Requires at least: 3.5
-Tested up to: 3.9.1
+Requires at least: 4.6
+Tested up to: 4.7.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,6 +33,8 @@ This ACF field type is compatible with:
 4. Please refer to the description for more info regarding the field type settings
 
 == Changelog ==
+= 1.0.2 =
+* Remove input_admin_head() as it breaks ACF Pro v5.3.3.2+
 
 = 1.0.1 =
 * Added select2 compatibility
